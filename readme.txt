@@ -1,6 +1,6 @@
 === Email Validation List ===
-Contributors: desgrapador
-Donate link: https://martinenrique.com/donaciones/
+Contributors: agilepress
+Donate link: https://agilepress.net
 Tags: email, validation, registration
 Requires at least: 6.0
 Tested up to: 6.2
